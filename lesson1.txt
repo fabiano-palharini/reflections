@@ -1,0 +1,30 @@
+GIT and GITHUB course
+
+Lesson 1:
+Chparter 6
+Go straigth to the point;
+Minimize human error;
+Ability to analyze large amounts of lines;
+
+
+Chapter 8:
+You can compare versions;
+Restore to a working version;
+
+
+Chapter 15:
+Pros: you can save when things make sense
+Cons: you may lose versions in case of accident
+
+enter in the project's directory
+
+git log --stat
+
+git diff 3884eab839af1e82c44267484cf2945a766081f3 3e42136a76cf78c6c421cd720427bf6337c2d623
+
+
+Chapter 26:
+With version control we can take more risks because once you have a version working you can go back to that specific version at any time.
+This enables you to take risks in the sense of more significant changes to the architect level.
+Rethink about diffferent designs of the application.
+
